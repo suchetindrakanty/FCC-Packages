@@ -3,7 +3,7 @@
 	"name": "your-project-name",
   "version": "1.0.0",
   "description": "Your project description",
-  "author": "Indrakanty Mani Suchet",
+  "author": "Jane Deo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
